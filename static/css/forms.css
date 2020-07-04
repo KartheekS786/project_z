@@ -1,0 +1,51 @@
+.search-form-box{
+  max-width: 800px;
+  border: 1px solid #ced4da;
+  background: rgba(0,0,0,0.5);
+  margin: 20% auto 0;
+}
+.search-form-box{
+
+  padding: 0 20px 20px;
+}
+.search-form-box label{
+  margin-bottom: 5px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: bold;
+  color:#fff;
+}
+input::placeholder{
+  font-family: bold;
+  color: #fff !important;
+}
+.input-grp
+{
+  width: 151px;
+  display: inline-block;
+}
+
+.form-control
+{
+  font-size: 12px!important;
+  border-radius: 0!important;
+  color: #fff!important;
+  background:rgba(0,0,0,0.5)!important;
+  box-shadow: none!important;
+}
+
+.select-date::-webkit-inner-spin-button,
+.select-date::-webkit-outer-spin-button
+{
+  -webkit-appearance: none;
+  margin: 0;
+}
+.select-date::-webkit-calendar-picker-indicator
+{
+  background: transparent!important;
+}
+.cars{
+  width: auto!important;
+  background: #e2472f!important;
+  box-shadow: none!important;
+}
